@@ -18,7 +18,7 @@ class Discord(object):
                 url=self.webhook_api,
                 data={
                     "content": dedent(message),
-                    "username": "Seol Hee",
-                    "avatar_url": "https://media.discordapp.net/attachments/1465033491392761990/1467619998544564428/13.jpg?ex=69810b22&is=697fb9a2&hm=85a864102e1d2a2d0501cd1c0695e44afe8189ee478095c8a60d2af8aac301a2&=&format=webp&width=1768&height=673",
+                    "username": "Kurumi Pussy",
+                    "avatar_url": "https://media.discordapp.net/attachments/1476107573387202642/1476460252085096500/71c02e26982abb2c82503f0f18a56ea59ab85d12122f4595b7ae9b806a6c29b3.png?ex=69a13443&is=699fe2c3&hm=40320fc1853f571b32e7191b600e064786b1d5e0a86dad6d78f73fcb2c10491b&=&format=webp&quality=lossless",
                 },
             )
